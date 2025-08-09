@@ -1,36 +1,15 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9745f5"/>
+
 # 👨🏾‍💻 Felipe Pacheco
 
 **`Desenvolvedor FullStack & English Teacher`**
 
 Me chamo Felipe Pacheco, tenho 18 anos e sou apaixonado por tecnologia desde a infância. Meu objetivo é criar soluções e experiencias inovadoras para pessoas ao redor do mundo, atualmente estudo desenvolvimento de software multiplataforma na Fatec jacareí, alem de estudos autodidatas. Estou disposto a ajudar sempre com foco no trabalho em equipe utilizando uma comunicação eficaz e soluções eficientes. Sou professor de inglês procurando por oportunidades na area de TI.
 
-<p align="left">
-    <a href="https://github.com/FelipePacheco30?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/FelipePacheco30?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/FelipePacheco30?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/FelipePacheco30?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-
-  <br>
-  <a href="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/badge/Email-E61B23.svg?logo=mail"
-        />
-    </a>
-
-    
-</p>
+  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:felipeferreirapacheco30@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/felipe-ferreira-pacheco-621443347/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=instagram&logoColor=9745f5)](https://www.instagram.com/kamyzmedino/?next=%2F)
+  
 
 ---
 
@@ -129,17 +108,17 @@ Me chamo Felipe Pacheco, tenho 18 anos e sou apaixonado por tecnologia desde a i
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=FelipePacheco30&show_icons=true&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api?username=FelipePacheco30&show_icons=true&theme=midnight-purple" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePacheco30&layout=compact&theme=radical" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePacheco30&layout=compact&theme=midnight-purple" 
   />
 
 </p>
 
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/>
