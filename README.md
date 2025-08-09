@@ -9,6 +9,19 @@ Me chamo Felipe Pacheco, tenho 18 anos e sou apaixonado por tecnologia desde a i
   [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:felipeferreirapacheco30@gmail.com)
   [![Linkedin](http://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/felipe-ferreira-pacheco-621443347/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=Github&logoColor=9745f5)]()
+
+
+
+---
+
+## 🌐 Idiomas
+
+[![Português](https://img.shields.io/badge/Nativo-9745f5?style=for-the-badge&logoColor=FFFFFF&label=Portugu%C3%AAs&labelColor=000000
+)]()
+[![Inglês](https://img.shields.io/badge/Fluente-9745f5?style=for-the-badge&logoColor=FFFFFF&label=Ingl%C3%AAs&labelColor=000000
+)]()
+
+
   
 
 ---
@@ -90,13 +103,6 @@ Me chamo Felipe Pacheco, tenho 18 anos e sou apaixonado por tecnologia desde a i
 
 <br/>
 <br/>
-
----
-
-## 🌐 Idiomas
-
-[![Português](https://img.shields.io/badge/Portugu%C3%AAs-Nativo-green?style=flat)]()
-[![Inglês](https://img.shields.io/badge/Ingl%C3%AAs-Avan%C3%A7ado-blue?style=flat)]()
 
 ---
 
