@@ -1,10 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9745f5"/>
 
-# 👨🏾‍💻 Felipe Pacheco
+# 👨🏾‍💻 Hello World, i'm Felipe Pacheco
 
 **`Desenvolvedor FullStack & English Teacher`**
 
-Me chamo Felipe Pacheco, tenho 18 anos e sou apaixonado por tecnologia desde a infância. Meu objetivo é criar soluções e experiencias inovadoras para pessoas ao redor do mundo, atualmente estudo desenvolvimento de software multiplataforma na Fatec jacareí, alem de estudos autodidatas. Estou disposto a ajudar sempre com foco no trabalho em equipe utilizando uma comunicação eficaz e soluções eficientes. Sou professor de inglês procurando por oportunidades na area de TI.
+Meu objetivo é criar soluções e experiencias inovadoras para pessoas ao redor do mundo, atualmente estudo desenvolvimento de software multiplataforma na Fatec jacareí, alem de estudos autodidatas. Estou disposto a ajudar sempre com foco no trabalho em equipe utilizando uma comunicação eficaz e soluções eficientes. Sou professor de inglês procurando por oportunidades na area de TI.
 
   [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:felipeferreirapacheco30@gmail.com)
   [![Linkedin](http://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/felipe-ferreira-pacheco-621443347/)
@@ -62,27 +62,27 @@ Me chamo Felipe Pacheco, tenho 18 anos e sou apaixonado por tecnologia desde a i
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
-    width="40px" 
+    alt="Postgree"
+    title="Postgree" 
+    width="45px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 <img 
     align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="Linux" 
+    title="Linux"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 <img 
     align="left" 
