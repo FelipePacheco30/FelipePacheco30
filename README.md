@@ -121,15 +121,7 @@ Me chamo Felipe Pacheco, tenho 18 anos e sou apaixonado por tecnologia desde a i
     alt="Top Language"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePacheco30&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"
   />
-  <br>
-  <br>
-  <img
-    align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipePacheco30&theme=midnight_purple"
-  />
-  <br>
-  <br>
+
   <img
     height=154
     align="center"
