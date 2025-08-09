@@ -7,8 +7,8 @@
 Me chamo Felipe Pacheco, tenho 18 anos e sou apaixonado por tecnologia desde a infância. Meu objetivo é criar soluções e experiencias inovadoras para pessoas ao redor do mundo, atualmente estudo desenvolvimento de software multiplataforma na Fatec jacareí, alem de estudos autodidatas. Estou disposto a ajudar sempre com foco no trabalho em equipe utilizando uma comunicação eficaz e soluções eficientes. Sou professor de inglês procurando por oportunidades na area de TI.
 
   [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:felipeferreirapacheco30@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/felipe-ferreira-pacheco-621443347/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=instagram&logoColor=9745f5)](https://www.instagram.com/kamyzmedino/?next=%2F)
+  [![Linkedin](http://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/felipe-ferreira-pacheco-621443347/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=Github&logoColor=9745f5)]()
   
 
 ---
@@ -102,23 +102,35 @@ Me chamo Felipe Pacheco, tenho 18 anos e sou apaixonado por tecnologia desde a i
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=FelipePacheco30&show_icons=true&theme=midnight-purple" 
+<div align="center">
+  <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=FelipePacheco30&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePacheco30&layout=compact&theme=midnight-purple" 
+  <img
+    height=165
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePacheco30&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"
   />
-
-</p>
+  <br>
+  <br>
+  <img
+    align="center"
+    alt="Top Language"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipePacheco30&theme=midnight_purple"
+  />
+  <br>
+  <br>
+  <img
+    height=154
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-streak-stats.herokuapp.com?user=FelipePacheco30&theme=midnight-purple&card_width=885"
+  />
+  </div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/>
