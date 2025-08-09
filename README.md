@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack & English Teacher`**
 
-Me chamo Felipe Pacheco, tenho 18 anos e sou apaixonado por tecnologia desde a infância. Meu objetivo é criar soluções e experiencias inovadoras para pessoas ao redor do mundo, atualmente estudo desenvolvimento de software multiplataforma na Fatec jacareí, alem de estudos autodidatas. Estou disposto a ajudar sempre com foco no trabalho em equipe utilizando uma comunicação eficaz e soluções eficientes. Atualmente sou professor de inglês procurando por oportunidades na area de TI.
+Me chamo Felipe Pacheco, tenho 18 anos e sou apaixonado por tecnologia desde a infância. Meu objetivo é criar soluções e experiencias inovadoras para pessoas ao redor do mundo, atualmente estudo desenvolvimento de software multiplataforma na Fatec jacareí, alem de estudos autodidatas. Estou disposto a ajudar sempre com foco no trabalho em equipe utilizando uma comunicação eficaz e soluções eficientes. Sou professor de inglês procurando por oportunidades na area de TI.
 
 <p align="left">
     <a href="https://github.com/FelipePacheco30?tab=repositories&sort=stargazers">
