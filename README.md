@@ -109,28 +109,24 @@ Meu objetivo é criar soluções e experiencias inovadoras para pessoas ao redor
 ### 📊 Estatísticas
 
 <div align="center">
-  <img
-    height=165
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=FelipePacheco30&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
-  />
+  <img 
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api/?username=FelipePacheco30&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"/>
+  
+  <img 
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePacheco30&layout=compact&langs_count=8&theme=midnight-purple&cache_seconds=3600"/>
 
-
-  <img
-    height=165
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePacheco30&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"
-  />
-
-  <img
+  <img 
     height=154
-    align="center"
-    alt="Top Language"
     src="https://github-readme-streak-stats.herokuapp.com?user=FelipePacheco30&theme=midnight-purple&card_width=885"
   />
-  </div>
+</div>
+
+
+
+
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/>
