@@ -109,19 +109,27 @@ Meu objetivo é criar soluções robustas e escalaveis, alem de experiencias ino
 ### 📊 Estatísticas
 
 <div align="center">
-  <img 
-    height="165" 
-    src="https://github-readme-stats.vercel.app/api/?username=FelipePacheco30&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"/>
-  
-  <img 
-    height="165" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePacheco30&layout=compact&langs_count=8&theme=midnight-purple&cache_seconds=3600"/>
-
-  <img 
-    height=154
-    src="https://github-readme-streak-stats.herokuapp.com?user=FelipePacheco30&theme=midnight-purple&card_width=885"
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/?username=FelipePacheco30&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
+    alt="GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePacheco30&layout=compact&langs_count=10&theme=midnight-purple&cache_seconds=3600&card_width=400"
+    alt="Top Langs"
   />
 </div>
+
+<div align="center">
+  <img
+    height="165"
+    src="https://github-readme-streak-stats.herokuapp.com?user=FelipePacheco30&theme=midnight-purple&card_width=800"
+    alt="GitHub Streak"
+  />
+</div>
+
+
 
 
 
