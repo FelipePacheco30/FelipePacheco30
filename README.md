@@ -116,6 +116,14 @@ Meu objetivo é criar soluções e experiencias inovadoras para pessoas ao redor
     src="https://github-readme-stats.vercel.app/api/?username=FelipePacheco30&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
   />
 
+
+  <img
+    height=165
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePacheco30&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"
+  />
+
   <img
     height=154
     align="center"
