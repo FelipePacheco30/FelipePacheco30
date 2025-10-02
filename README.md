@@ -28,7 +28,6 @@ Meu objetivo é criar soluções robustas e escalaveis, alem de experiencias ino
 
 ### 🤖 Linguagens e Tecnologias
 
-<!-- Linha 1: 13 ícones (não usa float) -->
 <div style="display:flex; flex-wrap:nowrap; gap:10px; align-items:center; overflow-x:auto; margin-bottom:12px;">
   <img alt="HTML"  title="HTML"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  style="width:60px; height:auto; display:block;"/>
   <img alt="CSS"   title="CSS"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"    style="width:60px; height:auto; display:block;"/>
@@ -48,15 +47,8 @@ Meu objetivo é criar soluções robustas e escalaveis, alem de experiencias ino
   <img alt="Express" title="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style="width:60px; height:auto; display:block;"/>
 </div>
 
-<!-- Linha 2: 13 ícones (não usa float) -->
-<div style="display:flex; flex-wrap:nowrap; gap:10px; align-items:center; overflow-x:auto; margin-bottom:18px;">
-
-
-</div>
-
 ---
 
-<!-- Título e cards de estatísticas: como HTML (garante posicionamento correto abaixo dos blocos acima) -->
 <h3 style="clear:both; margin-top:18px;">📊 Estatísticas</h3>
 <div align="center">
   <img
