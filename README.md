@@ -42,7 +42,7 @@ Meu objetivo é criar soluções robustas e escalaveis, alem de experiencias ino
   <img alt="Bootstrap" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" style="width:60px; height:auto; display:block;"/>
   <img alt="Linux"   title="Linux"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"    style="width:60px; height:auto; display:block;"/>
   <img alt="Git"     title="Git"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"       style="width:60px; height:auto; display:block;"/>
-  <img alt="Docker" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="width:60px; height:auto; display:block;"/>
+  <img alt="Docker" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="width:70px; height:auto; display:block;"/>
   <img alt="Node"   title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="width:60px; height:auto; display:block;"/>
   <img alt="Express" title="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style="width:60px; height:auto; display:block;"/>
 </div>
