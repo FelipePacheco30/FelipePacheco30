@@ -28,44 +28,38 @@ Meu objetivo é criar soluções robustas e escalaveis, alem de experiencias ino
 
 ### 🤖 Linguagens e Tecnologias
 
-<!-- Primeira linha (13 ícones) -->
-<img align="left" alt="HTML" title="HTML" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" title="CSS" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="TypeScript" title="TypeScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-<img align="left" alt="React" title="React" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-<img align="left" alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="Jupyter" title="Jupyter" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"/>
-<img align="left" alt="Pandas" title="Pandas" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain.svg"/>
-<img align="left" alt="Postgree" title="Postgree" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="SQLite" title="SQLite" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
-<img align="left" alt="Bootstrap" title="Bootstrap" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-<img align="left" alt="Linux" title="Linux" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
-<img align="left" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<!-- Linha 1: 13 ícones (não usa float) -->
+<div style="display:flex; flex-wrap:nowrap; gap:10px; align-items:center; overflow-x:auto; margin-bottom:12px;">
+  <img alt="HTML"  title="HTML"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  style="width:40px; height:auto; display:block;"/>
+  <img alt="CSS"   title="CSS"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"    style="width:40px; height:auto; display:block;"/>
+  <img alt="JS"    title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width:40px; height:auto; display:block;"/>
+  <img alt="TS"    title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width:40px; height:auto; display:block;"/>
+  <img alt="React" title="React"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"    style="width:40px; height:auto; display:block;"/>
+  <img alt="Python" title="Python"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  style="width:40px; height:auto; display:block;"/>
+  <img alt="Jupyter" title="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" style="width:40px; height:auto; display:block;"/>
+  <img alt="Pandas"  title="Pandas"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain.svg"    style="width:40px; height:auto; display:block;"/>
+  <img alt="Postgres" title="Postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="width:50px; height:auto; display:block;"/>
+  <img alt="SQLite"  title="SQLite"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"   style="width:50px; height:auto; display:block;"/>
+  <img alt="Bootstrap" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" style="width:40px; height:auto; display:block;"/>
+  <img alt="Linux"   title="Linux"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"    style="width:40px; height:auto; display:block;"/>
+  <img alt="Git"     title="Git"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"       style="width:40px; height:auto; display:block;"/>
+</div>
 
+<!-- Linha 2: 13 ícones (não usa float) -->
+<div style="display:flex; flex-wrap:nowrap; gap:10px; align-items:center; overflow-x:auto; margin-bottom:18px;">
+  <img alt="Docker" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="width:50px; height:auto; display:block;"/>
+  <img alt="Node"   title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="width:40px; height:auto; display:block;"/>
+  <img alt="Express" title="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style="width:40px; height:auto; display:block;"/>
+  <img alt="Next"   title="Next.js"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="width:40px; height:auto; display:block;"/>
+  <img alt="GitHub"  title="GitHub"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="width:40px; height:auto; display:block;"/>
+  <img alt="GitLab"  title="CI/CD"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" style="width:40px; height:auto; display:block;"/>
+  <img alt="Bash"    title="Bash"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="width:40px; height:auto; display:block;"/>
+</div>
 
+---
 
-<!-- Segunda linha (a partir da 14ª imagem, também com 13 por linha) -->
-<img align="left" alt="Docker" title="Docker" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
-<img align="left" alt="Linux" title="Linux" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
-<img align="left" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img align="left" alt="Linux" title="Linux" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
-<img align="left" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img align="left" alt="Linux" title="Linux" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
-<img align="left" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img align="left" alt="Linux" title="Linux" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
-<img align="left" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<!-- Adicione aqui os próximos ícones para completar até 13 na segunda linha -->
-
-
-
-
-
-
-
-
-### 📊 Estatísticas 
-
+<!-- Título e cards de estatísticas: como HTML (garante posicionamento correto abaixo dos blocos acima) -->
+<h3 style="clear:both; margin-top:18px;">📊 Estatísticas</h3>
 <div align="center">
   <img
     height="165"
@@ -86,10 +80,6 @@ Meu objetivo é criar soluções robustas e escalaveis, alem de experiencias ino
     alt="GitHub Streak"
   />
 </div>
-
-
-
-
 
 
 
