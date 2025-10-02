@@ -106,6 +106,16 @@ Meu objetivo é criar soluções robustas e escalaveis, alem de experiencias ino
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="SQLite"
+    title="SQLite" 
+    width="45px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="Bootstrap"
