@@ -51,10 +51,7 @@ Meu objetivo é criar soluções robustas e escalaveis, alem de experiencias ino
 <!-- Linha 2: 13 ícones (não usa float) -->
 <div style="display:flex; flex-wrap:nowrap; gap:10px; align-items:center; overflow-x:auto; margin-bottom:18px;">
 
-  <img alt="Next"   title="Next.js"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="width:40px; height:auto; display:block;"/>
-  <img alt="GitHub"  title="GitHub"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="width:40px; height:auto; display:block;"/>
-  <img alt="GitLab"  title="CI/CD"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" style="width:40px; height:auto; display:block;"/>
-  <img alt="Bash"    title="Bash"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="width:40px; height:auto; display:block;"/>
+
 </div>
 
 ---
