@@ -27,7 +27,7 @@ Meu objetivo é criar soluções robustas e escalaveis, alem de experiencias ino
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
+<div align="center">
 <img 
     align="left" 
     alt="HTML"
@@ -150,7 +150,7 @@ Meu objetivo é criar soluções robustas e escalaveis, alem de experiencias ino
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
-
+</div>
 <br/>
 <br/>
 
