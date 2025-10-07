@@ -45,6 +45,7 @@ Meu objetivo é criar soluções robustas e escalaveis, alem de experiencias ino
   <img alt="Docker" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="width:70px; height:auto; display:block;"/>
   <img alt="Node"   title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="width:60px; height:auto; display:block;"/>
   <img alt="Express" title="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style="width:60px; height:auto; display:block;"/>
+  <img alt="Flask" title="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" style="width:60px; height:auto; display:block;"/>
    <img alt="Figma" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="width:60px; height:auto; display:block;"/>
 </div>
 
