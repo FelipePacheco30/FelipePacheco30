@@ -4,25 +4,18 @@
 
 **`Desenvolvedor FullStack & English Teacher`**
 
-Meu objetivo é criar soluções robustas e escalaveis, alem de experiencias inovadoras para pessoas ao redor do mundo, atualmente estudo desenvolvimento de software multiplataforma na Fatec jacareí, alem de estudos autodidatas. Estou disposto a ajudar sempre com foco no trabalho em equipe utilizando uma comunicação eficaz e soluções eficientes. Sou professor de inglês procurando por oportunidades na area de TI.
+Meu objetivo é criar soluções robustas e escalaveis, alem de experiencias inovadoras para pessoas ao redor do mundo, atualmente estudo desenvolvimento de software multiplataforma na Fatec jacareí, alem de estudos autodidatas. Estou disposto a ajudar sempre com foco no trabalho em equipe utilizando uma comunicação eficaz e soluções eficientes. Sou professor de inglês procurando por oportunidades na area de Desenvolvimento.
 
-  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:felipeferreirapacheco30@gmail.com)
-  [![Linkedin](http://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/felipe-ferreira-pacheco)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=Github&logoColor=9745f5)](https://felipepacheco30.github.io/Portfolio/)
-
-
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:felipeferreirapacheco30@gmail.com)
+[![Linkedin](http://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/felipe-ferreira-pacheco)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=Github&logoColor=9745f5)](https://felipepacheco30.github.io/Portfolio/)
 
 ---
 
 ## 🌐 Idiomas
 
-[![Português](https://img.shields.io/badge/Nativo-9745f5?style=for-the-badge&logoColor=FFFFFF&label=Portugu%C3%AAs&labelColor=000000
-)]()
-[![Inglês](https://img.shields.io/badge/Fluente-9745f5?style=for-the-badge&logoColor=FFFFFF&label=Ingl%C3%AAs&labelColor=000000
-)]()
-
-
-  
+[![Português](https://img.shields.io/badge/Nativo-9745f5?style=for-the-badge&logoColor=FFFFFF&label=Portugu%C3%AAs&labelColor=000000)]()
+[![Inglês](https://img.shields.io/badge/Fluente-9745f5?style=for-the-badge&logoColor=FFFFFF&label=Ingl%C3%AAs&labelColor=000000)]()
 
 ---
 
@@ -72,8 +65,5 @@ Meu objetivo é criar soluções robustas e escalaveis, alem de experiencias ino
     alt="GitHub Streak"
   />
 </div>
-
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/>
