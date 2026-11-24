@@ -2,7 +2,7 @@
 
 # 👨🏾‍💻 Hello World, i'm Felipe Pacheco
 
-**`Desenvolvedor FullStack & English Teacher`**
+**`Desenvolvedor FullStack`**
 
 Meu objetivo é criar soluções robustas e escalaveis, alem de experiencias inovadoras para pessoas ao redor do mundo, atualmente estudo desenvolvimento de software multiplataforma na Fatec jacareí, alem de estudos autodidatas. Estou disposto a ajudar sempre com foco no trabalho em equipe utilizando uma comunicação eficaz e soluções eficientes. Atualmente sou Desenvovledor Full Stack
 
